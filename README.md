@@ -1,2 +1,2 @@
 # hello-world
-programming course practice
+programming course practise
